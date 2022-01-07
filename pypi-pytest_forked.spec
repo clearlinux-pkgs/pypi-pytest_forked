@@ -17,7 +17,7 @@ BuildRequires : buildreq-distutils3
 Provides: pytest-forked
 Provides: pytest-forked-python
 Provides: pytest-forked-python3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(py)
 BuildRequires : pypi(setuptools)
@@ -25,7 +25,7 @@ BuildRequires : pypi(setuptools_scm)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 ====================================================
