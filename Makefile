@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pytest_forked
-URL = https://files.pythonhosted.org/packages/f1/bc/0121a2e386b261b69f4f5aa48e5304c947451dce70d68628cb28d5cd0d28/pytest-forked-1.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/8c/c9/93ad2ba2413057ee694884b88cf7467a46c50c438977720aeac26e73fdb7/pytest-forked-1.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
