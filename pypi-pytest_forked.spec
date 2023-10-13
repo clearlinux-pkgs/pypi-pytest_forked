@@ -4,7 +4,7 @@
 #
 Name     : pypi-pytest_forked
 Version  : 1.6.0
-Release  : 41
+Release  : 42
 URL      : https://files.pythonhosted.org/packages/8c/c9/93ad2ba2413057ee694884b88cf7467a46c50c438977720aeac26e73fdb7/pytest-forked-1.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8c/c9/93ad2ba2413057ee694884b88cf7467a46c50c438977720aeac26e73fdb7/pytest-forked-1.6.0.tar.gz
 Summary  : run tests in isolated forked subprocesses
